@@ -1,7 +1,6 @@
 const displayWidth = window.innerWidth;
 let ham_place = document.getElementById(`nav_right`)
 let nav = document.getElementById(`nav`)
-console.log(displayWidth)
 ham = document.createElement(`img`)
 
 ham.setAttribute(`src`, `./assets/images/icon-menu.svg`)
